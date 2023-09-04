@@ -1,4 +1,4 @@
-### This is the repository for "Machine Learning for Intelligent Character Recognition"\
+### This is the repository for "Machine Learning for Intelligent Character Recognition"
 
 Please note that the folder "Kaggle codes" were run on kaggle and downloaded as a notebook with its output.\
 "ICR program" was ran using Visual Studio Code.\
